@@ -1,13 +1,13 @@
 # tech blog collections
-==================================
+======================
 
-#Android
-
-
-#IOS
+# Android
 
 
-#Server
+# IOS
+
+
+# Server
 
 
 #Java
